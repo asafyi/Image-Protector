@@ -82,3 +82,5 @@ gunicorn --bind 0.0.0.0:80 server_redirect:app
 ### Utils
 
 The folder “image_utils” contains a few modules that other scripts use for face recognition, image processing, etc.
+
+***Made by [@asafyi](https://github.com/asafyi) && [@galgodsi](https://github.com/galgodsi) && [@yotammaoz](https://github.com/yotammoaz)***
