@@ -1,0 +1,12 @@
+argument: im_dir is: example_input
+argument: save_dir is: example_output
+argument: gan_enc is: e4e
+argument: dif_model is: I2I
+argument: attack_type is: comb
+argument: prompt is: woman with blue hair
+argument: seed is: None
+argument: pgd_iters is: 100
+argument: epsilon is: 0.04
+argument: loss_type is: adp
+argument: alpha is: 0.1
+argument: step_size is: 0.05

@@ -1,0 +1,5 @@
+argument: im_path is: ./input/sundar.jpg
+argument: mask_path is: ./input/sundar_mask.jpg
+argument: save_dir is: ./results/sundar_org
+argument: dif_prompt is: a man in a park with trees at day
+argument: gan_prompt is: man with blond hair
